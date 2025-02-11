@@ -66,6 +66,4 @@ Feel free to fork this repository and submit pull requests to improve the system
 ## License
 
 This project is licensed under the MIT License.
-```
 
-Let me know if you need any edits! 🚀
