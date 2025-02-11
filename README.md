@@ -62,11 +62,6 @@ A simple C++ banking system that allows users to perform basic banking operation
 Choose what do you want to do? [ 1 to 6 ]?
 ```
 
-## Requirements
-
-- C++ compiler (GCC, Clang, or MSVC)
-- Compatible with Windows, macOS, and Linux
-
 ## Contributing
 
 Feel free to fork this repository and submit pull requests to improve the system.
