@@ -48,13 +48,18 @@ A simple C++ banking system that allows users to perform basic banking operation
 ## Example Menu
 
 ```
-Welcome to the Banking System
-1. Create Account
-2. Deposit Money
-3. Withdraw Money
-4. Display Account
-5. Exit
-Enter your choice: 
+===========================================
+                Main Menue Screen
+===========================================
+        [1] Show Client List.
+        [2] Add New Client.
+        [3] Delete Client.
+        [4] Update Client Info.
+        [5] Find Client.
+        [6] Transactions.
+        [7] Exit.
+===========================================
+Choose what do you want to do? [ 1 to 6 ]?
 ```
 
 ## Requirements
