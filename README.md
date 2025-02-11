@@ -1,6 +1,4 @@
-Here's your `README.md` in Markdown format:  
 
-```markdown
 # Banking System
 
 A simple C++ banking system that allows users to perform basic banking operations such as creating accounts, depositing, withdrawing, and displaying account details.
