@@ -1,14 +1,17 @@
-
 # Banking System
 
 A simple C++ banking system that allows users to perform basic banking operations such as creating accounts, depositing, withdrawing, and displaying account details.
 
 ## Features
 
-- Create a new account
+- Add New Client
+- Delete Client
+- Update Client Info
+- Find Client
 - Deposit money
 - Withdraw money
-- Display account details
+- Total Balances
+- Exit
 
 ## Installation
 
